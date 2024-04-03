@@ -1,0 +1,11 @@
+FILES:
+  process_single_file: False
+  filename: "Rule of Wolves.epub"
+  folder_path: "./epubs"
+  output_folder: "./outputs"
+  
+  skip_if_output_exists: True
+
+INFERENCE:
+  use_gpu: True
+  debug: False
